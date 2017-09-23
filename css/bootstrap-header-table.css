@@ -8,6 +8,7 @@
     border: 1px solid gainsboro;
     padding: 8px;
     font-size: 17px;
+    margin-top: 50px;
 }
 .bootstrap-header-table .header-row .header-column {
     text-align: center;
